@@ -3,6 +3,8 @@ import tkinter.messagebox as messagebox
 
 # random comment 2
 
+# a little more
+
 def button_click(number):
     current = display.get()
     display.delete(0, tk.END)
